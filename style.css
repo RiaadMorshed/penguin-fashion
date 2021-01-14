@@ -1,0 +1,64 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.mybtn img{
+    height: 24px;
+    width: 24px;
+}
+.mybtn{
+    padding: 10px 20px;
+    background-color: #A4BC46;
+    border: 1px solid #A4BC46;
+}
+
+
+.penguin-header, .winter{
+    color: #FABE4C; 
+    font-weight: bolder; 
+    font-size: 60px;
+    letter-spacing: .5;
+}
+.my-card, .card-footer{
+    border: none;
+    padding: 10px;
+    background-color: #F1F1F1;
+}
+.card-footer{
+    background-color: white;
+}
+.text-violet{
+    color: #363958;
+    font-weight: 1500;
+}
+.text-orange{
+    color: #FABE4C;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.card .img{
+    height: 280px;
+    width: 243px;
+}
+
+.newsletter{
+    background-color: #ddf2ff;
+    padding: 20px 30px;
+    font-size: 24px;
+}
+.newsletter p{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.shop_btn{
+    position: relative;
+    left: 10px;
+    border-radius: 15px;
+    
+}
+
+.social{
+    font-size: 30px;
+    color: rgb(145, 206, 76);
+}
